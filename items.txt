@@ -1,0 +1,8 @@
+1,Garlic naan,40
+2,Roti,20
+4,Chilli chicken,250
+5,Butter chicken,280
+7,Paneer Butter masala,290
+8,Raita,150
+9,Gulaab Jamun,60
+10,Dahi vada,60
